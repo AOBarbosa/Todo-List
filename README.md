@@ -6,7 +6,7 @@ To do List built with React.JS .
 
 You can accsess the project by downloading the zip file or cloning the repositorie into your machine using the terminal.
 
-Copu and paste this in your terminal window:
+Copy and paste this in your terminal window:
 
 ```
 https://github.com/AOBarbosa/Todo-List.git
